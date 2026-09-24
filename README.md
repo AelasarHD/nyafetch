@@ -1,4 +1,4 @@
-# nyafetch 🐾
+# nyafetch 
 
 *A `neofetch`-style system info tool that doesn't just describe your machine — it reacts to it.*
 
@@ -7,7 +7,7 @@ replaces that logo with an ASCII cat whose mood, pose, and color are computed
 **live** from your actual CPU/RAM/disk load. The "logo" *is* the health check.
 
 ```
-⠀⠀⠀⠀⠀⠀⣠⣶⣶⢶⣶⣶⣶⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣀⡀⠀⠀⠀⠀⠀⠀   mitchovskiys-Mac-mini.local
+⠀⠀⠀⠀⠀⠀⣠⣶⣶⢶⣶⣶⣶⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣀⡀⠀⠀⠀⠀⠀⠀   test-Mac-mini.local
 ⠀⠀⠀⠀⠀⢰⡿⠃⠀⠀⠀⠀⠀⠉⠙⢻⣦⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣀⠀⢀⣠⣶⠿⠛⠉⠉⠙⣿⡄⠀⠀⠀⠀⠀   ---------------------------
 ⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠩⠉⠈⠇⠀⠀⢈⠀⠈⠉⠉⠛⠻⠟⠋⠁⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀   OS: macOS 15.2 (Sequoia)
 ⠀⠀⠀⠀⠀⢸⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⠃⠀⠀⠀⠀⠀   CPU: Apple M4 (10C/10T) 4.4 GHz
