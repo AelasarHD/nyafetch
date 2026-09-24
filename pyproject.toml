@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nyafetch"
+version = "0.1.0"
+description = "A tiny, hackable neofetch-style system info tool written in Python"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = [
+    "psutil>=5.9.0",
+]
+
+[project.scripts]
+nyafetch = "nyafetch.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["nyafetch*"]
